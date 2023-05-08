@@ -1,6 +1,6 @@
 # Exercise 1 - communication
-from pepper_seminar.speech_recognition import SpeechToText
-from pepper_seminar.speech_synthesis import TextToSpeech
+from speech_recognition import SpeechToText
+from speech_synthesis import TextToSpeech
 
 class Exercise1:
 
